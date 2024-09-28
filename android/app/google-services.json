@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984842521038",
+    "project_id": "ftworkout-4a26d",
+    "storage_bucket": "ftworkout-4a26d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984842521038:android:a0ff12ff4534b46ae8839f",
+        "android_client_info": {
+          "package_name": "com.example.ft_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEBUpNgHm_rRWc0l4o3VgiVsYaIVs3rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
