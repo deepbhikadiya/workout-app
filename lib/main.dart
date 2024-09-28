@@ -1,5 +1,4 @@
 import 'package:firebase_core/firebase_core.dart';
-import 'package:ft_task/firebase_options.dart';
 import 'package:ft_task/package/config_packages.dart';
 
 void main() async {
